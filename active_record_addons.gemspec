@@ -4,7 +4,7 @@ require File.expand_path("../lib/active_record_addons/version", __FILE__)
 Gem::Specification.new do |gem|
   gem.name        = "active_record_addons"
   gem.license     = "MIT"
-  gem.version     = TagColumns::VERSION
+  gem.version     = ActiveRecordAddons::VERSION
   gem.authors     = ["Nathan Hopkins"]
   gem.email       = ["natehop@gmail.com"]
   gem.homepage    = "https://github.com/hopsoft/active_record_addons"
