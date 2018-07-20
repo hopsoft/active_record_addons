@@ -13,6 +13,6 @@ ActiveRecord::Relation.send :include, ActiveRecordAddons::Relation
 Extract the where clause from an `ActiveRecord::Relation`
 
 ```ruby
-User.where(last_name: %w(Cruise Cavill Rhames)).where_sql
+User.where(last_name: %w(Cruise Cavill Rhames)).to_where_clause
 # => "users"."last_name" IN ('Cruise', 'Cavill', 'Rhames')
 ```
