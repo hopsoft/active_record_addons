@@ -1,4 +1,4 @@
-class ActiveRecordAddons::Relation
+module ActiveRecordAddons::Relation
   # Emits the "where clause" portion of the query as interpolated SQL
   def where_sql
     connection.unprepared_statement do
