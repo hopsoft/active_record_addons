@@ -1,5 +1,7 @@
-<object data="https://www.dropbox.com/s/raw/d7jrzjcu8g3ey1h/github-template.svg" type="image/svg+xml"></object>
-!["Experiment"](https://uc40eb7c5aec9f49c8d3135c724b.dl.dropboxusercontent.com/cd/0/inline/An83MRmj5BOW4N-FhxZ9UHWfyp7FXfyI3oB0g5js8VUz4bnFBfuWt662vJNOJ1idOmB3rvrz2ZH67Hh1Ey0HjYH2rAzLQPSiKfZh-McvYKoi1w/file#)
+<details>
+  <summary>Details</summary>
+  Something small enough to escape casual notice.
+</details>
 
 # ActiveRecordAddons
 
