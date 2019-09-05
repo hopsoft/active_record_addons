@@ -1,3 +1,5 @@
+<object data="https://www.dropbox.com/s/raw/d7jrzjcu8g3ey1h/github-template.svg" type="image/svg+xml"></object>
+
 # ActiveRecordAddons
 
 A small library of helper methods for ActiveRecord.
