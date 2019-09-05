@@ -1,8 +1,7 @@
 <details>
-  <summary><h6>This project sponsored by <img src="https://exo-development.sfo2.cdn.digitaloceanspaces.com/digital-ocean.svg"></h6></summary>
-  <a href="https://www.digitalocean.com" target="_blank">
-    <img src="">
-    Some content goes here...
+  <summary><img src="https://exo-development.sfo2.digitaloceanspaces.com/digital-ocean-2.svg"></summary>
+  <a href="https://www.digitalocean.com">
+    <img src="https://exo-development.sfo2.digitaloceanspaces.com/digital-ocean-details-3.svg">
   </a>
 </details>
 
