@@ -1,6 +1,9 @@
 <details>
-  <summary>Details</summary>
-  Something small enough to escape casual notice.
+  <summary><h6>This project sponsored by <img src="https://exo-development.sfo2.cdn.digitaloceanspaces.com/digital-ocean.svg"></h6></summary>
+  <a href="https://www.digitalocean.com" target="_blank">
+    <img src="">
+    Some content goes here...
+  </a>
 </details>
 
 # ActiveRecordAddons
