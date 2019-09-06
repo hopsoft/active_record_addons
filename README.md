@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.digitalocean.com">
-    <img src="https://exo-development.sfo2.digitaloceanspaces.com/digital-ocean-7.svg">
+    <img src="https://exo-development.sfo2.cdn.digitaloceanspaces.com/digital-ocean-10.svg">
   </a>
 </p>
 
