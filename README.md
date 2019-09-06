@@ -1,18 +1,8 @@
-<a href="https://www.digitalocean.com">
-  <img src="https://exo-development.sfo2.cdn.digitaloceanspaces.com/digital-ocean-7.svg">
-</a>
-
-<details>
-  <summary>Gold Sponsors...</summary>
-  <br><br>
-  <a href="https://azure.microsoft.com/en-us/">
-    <img src="https://exo-development.sfo2.cdn.digitaloceanspaces.com/microsoft-azure-2.svg">
+<p align="center">
+  <a href="https://www.digitalocean.com">
+    <img src="https://exo-development.sfo2.cdn.digitaloceanspaces.com/digital-ocean-7.svg">
   </a>
-  <hr>
-  <a href="https://www.heroku.com">
-    <img src="https://exo-development.sfo2.cdn.digitaloceanspaces.com/heroku-1.svg">
-  </a>
-</details>
+</p>
 
 # ActiveRecordAddons
 
