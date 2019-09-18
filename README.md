@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.digitalocean.com">
-    <img src="https://exo-development.sfo2.cdn.digitaloceanspaces.com/digital-ocean-10.svg">
+  <a href="https://hopsoft.ngrok.io/properties/463/visit-sponsor">
+    <img src="https://hopsoft.ngrok.io/properties/463/sponsor">
   </a>
 </p>
 
