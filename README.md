@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://stage.codefund.app/properties/477/visit-sponsor">
-    <img src="https://stage.codefund.app/properties/477/sponsor" />
+  <a href="https://hopsoft.ngrok.io/properties/477/visit-sponsor">
+    <img src="https://hopsoft.ngrok.io/properties/477/sponsor" />
   </a>
 </p>
 
